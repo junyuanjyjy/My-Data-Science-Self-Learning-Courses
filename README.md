@@ -12,7 +12,7 @@ There are broadly two categories of courses I have taken up until now.
 
 ## Math courses
 I chose to undertake a distance learning Maths & Econs Degree. 
-My reasoning is it will offer me a strcutrued way to learn all the necessary maths skills in a strcutured way. 
+My reasoning is it will offer me a strcutrued way to learn all the necessary maths skills. 
 Also the process of preparing for the final exams kind of makes sure that I learn the concepts deep enough. 
 
 - [Statistics 1](https://london.ac.uk/courses/statistics-1-st104a)
