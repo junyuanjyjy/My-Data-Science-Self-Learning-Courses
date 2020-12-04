@@ -1,7 +1,8 @@
 # My Self Learning Journey in Data Science 
 
-I finished my BSc (Hons) Accounting in 2017. 
-In 2018 I decided to work towards becoming a Data Scientist while working full time(Due to some constraints). 
+I finished my undergrad in Accounting in 2017. 
+In 2018 I decided to work towards becoming a Data Scientist. 
+Having zero background in maths and programming, I decided to take online relevant courses while working full time(Due to some constraints). 
 
 There are broadly two categories of courses I have taken up until now. 
 
