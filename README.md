@@ -10,7 +10,8 @@ There are broadly two categories of courses I have taken up until now.
 - Coursera: [Deep Learning Specialisation](https://www.coursera.org/account/accomplishments/specialization/XXQEFAAPR7SF)
 
 ## Math courses
-I undertake a Maths & Econs Degree. 
+I chose to undertake a distance learning Maths & Econs Degree. 
+My reasoning is it will offer me a strcutrued way to learn  
 - [Statistics 1](https://london.ac.uk/courses/statistics-1-st104a)
 - [Statistics 2](https://london.ac.uk/courses/statistics-2-st104b)
 - [Algebra](https://london.ac.uk/courses/algebra-mt1173)
